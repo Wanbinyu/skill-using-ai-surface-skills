@@ -1,0 +1,23 @@
+{
+  "name": "using-ai-surface-skills",
+  "owner": {
+    "name": "Wanbinyu",
+    "url": "https://github.com/Wanbinyu"
+  },
+  "metadata": {
+    "description": "Route agent-tool / MCP work to the right AI Surface skill. Use when the user mentions tools, function calling, MCP tools, tool schema, permissions, human approval, agent retries, skill vs MCP, tool...",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "using-ai-surface-skills",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Route agent-tool / MCP work to the right AI Surface skill. Use when the user mentions tools, function calling, MCP tools, tool schema, permissions, human approval, agent retries, skill vs MCP, tool...",
+      "keywords": [
+        "agent-skills",
+        "using-ai-surface-skills"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.claude/skills/
+.agents/skills/
+.cursor/skills/
+.github/skills/
